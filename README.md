@@ -31,8 +31,8 @@ personal-portfolio-web/
 ---
 
 ## 🚀 Live Demo
-The website is hosted via **GitHub Pages**:  
-👉 [View Portfolio](https://rimjhim-27.github.io/personal-portfolio-web/)
+The website is hosted via **Netlify pages**:  
+👉 [View Portfolio](rimjhimwebsite.netlify.app)
 
 ---
 
