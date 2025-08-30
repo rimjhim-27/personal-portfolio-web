@@ -32,7 +32,7 @@ personal-portfolio-web/
 
 ## 🚀 Live Demo
 The website is hosted via **Netlify pages**:  
-👉 [View Portfolio](rimjhimwebsite.netlify.app)
+👉 [View Portfolio](https://rimjhimwebsite.netlify.app/)
 
 ---
 
